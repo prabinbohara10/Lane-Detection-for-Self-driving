@@ -17,4 +17,6 @@ Initial approach is simply using the canny edge detection algorithm.
   ![image](https://user-images.githubusercontent.com/42064827/180612228-9e137a3d-a10a-46c1-904b-bced7e9d5a48.png)
   
   In cartesian co-ordinate,
+  
+  
   ![image](https://user-images.githubusercontent.com/42064827/180612114-cd388589-45bf-4111-9c80-d5138f91ab0c.png)
