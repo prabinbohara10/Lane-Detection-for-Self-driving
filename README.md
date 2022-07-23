@@ -1,5 +1,5 @@
 # Lane-Detection-for-Self-driving
-Initial approach is simply using the canny edge detection algorithm.
+Initial approach is simply by using the canny edge detection algorithm.
 
 1) Converting the 3 channel image to gray scale.
 2) Using the gaussian filter to reduse noise and smoothening image.
